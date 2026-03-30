@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pt
+*.pth
+.env
+.vscode/
+dataset/
+models/
